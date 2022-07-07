@@ -24,6 +24,11 @@
   color: white;
 }
 
+button {
+  padding: 1rem 2rem;
+  font-size: 2rem;
+}
+
 .App-link {
   color: #61dafb;
 }
